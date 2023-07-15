@@ -7,7 +7,6 @@ React Native, React js developer and Unlocking the power of Node.js
 Passionate React Native and React.js developer unleashing the potential of Node.js to create powerful and scalable applications.
 
 * 🌍  I'm based in Haryana, India
-* 🖥️  See my portfolio at [myportfolio](http://ff)
 * ✉️  You can contact me at [vikramsegta43@gmail.com](mailto:vikramsegta43@gmail.com)
 * 🧠  I'm learning Node js
 * 🤝  I'm open to collaborating on exciting projects, leveraging my expertise in React Native, React.js, and Node.js
