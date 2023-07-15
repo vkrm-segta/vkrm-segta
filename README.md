@@ -6,12 +6,16 @@ React Native, React js developer and Unlocking the power of Node.js
 
 Passionate React Native and React.js developer unleashing the potential of Node.js to create powerful and scalable applications.
 
-*   🌍  I'm based in Haryana, India
-*   🖥️  See my portfolio at [myportfolio](http://ff)
-*   ✉️  You can contact me at [vikramsegta43@gmail.com](mailto:vikramsegta43@gmail.com)
-*   🧠  I'm learning Node js
-*   🤝  I'm open to collaborating on exciting projects, leveraging my expertise in React Native, React.js, and Node.js
-*   ⚡  Debugging code like a detective on a caffeine spree.### Skills 
+* 🌍  I'm based in Haryana, India
+* 🖥️  See my portfolio at [myportfolio](http://ff)
+* ✉️  You can contact me at [vikramsegta43@gmail.com](mailto:vikramsegta43@gmail.com)
+* 🧠  I'm learning Node js
+* 🤝  I'm open to collaborating on exciting projects, leveraging my expertise in React Native, React.js, and Node.js
+* ⚡  Debugging code like a detective on a caffeine spree.
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -33,21 +37,22 @@ Passionate React Native and React.js developer unleashing the potential of Node.
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/vkrmsegta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/vkrm-segta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/vikram-segta-34687b205" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/segtavikram" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/vkrm-segta"><img src="https://github-readme-stats.vercel.app/api?username=vkrm-segta&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="vkrm-segta's GitHub stats" /></a><a
-                      href="http://www.github.com/vkrm-segta"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=vkrm-segta&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/vkrm-segta"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vkrm-segta&bg_color=1c1917&color=ffffff&line=84cc16&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/vkrm-segta" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkrm-segta&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<a
-                  href="https://www.buymeacoffee.com/vikramsegta"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/vkrmsegta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/vkrm-segta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vikram-segta-34687b205" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/segtavikram" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/vkrm-segta"><img src="https://github-readme-stats.vercel.app/api?username=vkrm-segta&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="vkrm-segta's GitHub stats" /></a>
+
+<a href="http://www.github.com/vkrm-segta"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vkrm-segta&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/vkrm-segta" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkrm-segta&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/vikramsegta"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
