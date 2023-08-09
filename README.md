@@ -1,22 +1,23 @@
-<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="developer gif" style="width: 100%; height: 450px">
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Vikram Segta</h1>
+<h3 align="center">I'm a front-end developer in React.js, React Native, and Next.js.and Unlocking the power of Node.js, Express, and MongoDB.</h3>
+
+
 <br>
+<br>
+<h3 align="left">About me:</h3>
 
-Hi 👋 My name is Vikram Segta
-=============================
+- 🌍  I'm based in Haryana, India
+- 🔭 I’m currently working on **Front-end developer**
+- ✉️  You can contact me at [vikramsegta43@gmail.com](mailto:vikramsegta43@gmail.com)
+- 👨‍💻 All of my projects are available at **<a href="https://vkrm-segta.github.io/vikram-segta-portfolio" blank="_target">My Portfolio</a>**
+- 👯 I’m looking to collaborate on **projects**
+- 🌱 I’m currently learning **Node.js, Express, and MongoDB**
+- 💬 Ask me about **React js, React Native and Next js**
+- ⚡ Fun fact **Why do developers prefer dark mode? Because light attracts bugs!**
 
-React Native, React js developer and Unlocking the power of Node.js
--------------------------------------------------------------------
-
-Passionate React Native and React.js developer unleashing the potential of Node.js to create powerful and scalable applications.
-
-* 🌍  I'm based in Haryana, India
-* ✉️  You can contact me at [vikramsegta43@gmail.com](mailto:vikramsegta43@gmail.com)
-* 🧠  I'm learning Node js
-* 🤝  I'm open to collaborating on exciting projects, leveraging my expertise in React Native, React.js, and Node.js
-* ⚡  Debugging code like a detective on a caffeine spree.
-
-### Skills
-
+<br>
+<h3 align="left">Skills:</h3>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -24,6 +25,7 @@ Passionate React Native and React.js developer unleashing the potential of Node.
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/vuejs-original-wordmark.svg" alt="Vuejs" width="36" height="36"/>
 <br>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
@@ -41,23 +43,31 @@ Passionate React Native and React.js developer unleashing the potential of Node.
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="36" height="36"/>
 </p>
 
+<br>
+<h3 align="left">Connect with me:</h3>
 
-### Socials
+<div>
+<a href="https://www.linkedin.com/in/vikram-segta-34687b205" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://twitter.com/imVkrmSegta" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://github.com/vkrm-segta" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:vikramsegta43@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-<p align="left"> <a href="https://discord.com/users/vkrmsegta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/vkrm-segta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vikram-segta-34687b205" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/segtavikram" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+<br>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
+<br>
+<hr>
+<div align="center">
 <a href="http://www.github.com/vkrm-segta"><img src="https://github-readme-stats.vercel.app/api?username=vkrm-segta&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="vkrm-segta's GitHub stats" /></a>
 
 <a href="http://www.github.com/vkrm-segta"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vkrm-segta&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div>
+<hr>
 
-<a href="https://github.com/vkrm-segta" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkrm-segta&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
+<div align="right">
 <a href="https://www.buymeacoffee.com/vikramsegta"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+</div>
+
