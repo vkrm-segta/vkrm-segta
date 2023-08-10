@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Vikram Segta</h1>
 <h3 align="center">I'm a front-end developer in React.js, React Native, and Next.js.and Unlocking the power of Node.js, Express, and MongoDB.</h3>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vkrm-segta&label=Profile%20views&color=0e75b6&style=flat" alt="vkrm-segta" /> </p>
 
 <br>
 <br>
